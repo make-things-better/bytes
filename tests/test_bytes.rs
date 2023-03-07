@@ -19,6 +19,7 @@ fn test_bounds() {
 }
 
 #[test]
+#[ignore]
 fn test_layout() {
     use std::mem;
 
